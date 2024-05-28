@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "name": "Consola Super Nintendo",
+      "price": "89.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/SNES-Mod1-Console-Set.png",
+      "id": "3"
+    },
+    {
+      "name": "Consola Nintendo Game Cube",
+      "price": "135.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/GameCube-Console-Set.png",
+      "id": "4"
+    },
+    {
+      "name": "Consola Nintendo Wii",
+      "price": "199.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Wii_console.png",
+      "id": "5"
+    },
+    {
+      "name": "Consola Nintendo Wii U",
+      "price": "230.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wii_U_Console_and_Gamepad.png/800px-Wii_U_Console_and_Gamepad.png",
+      "id": "6"
+    },
+    {
+      "name": "Consola Nintendo Switch",
+      "price": "399.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg/213px-Nintendo-Switch-wJoyCons-BlRd-Standing-FL.jpg",
+      "id": "7"
+    },
+    {
+      "name": "Consola Game Boy Color",
+      "price": "70.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nintendo-Game-Boy-Color-FL.jpg",
+      "id": "8"
+    },
+    {
+      "name": "Consola Game Boy Advance",
+      "price": "80.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Nintendo-Game-Boy-Advance-Purple-FL.jpg",
+      "id": "9"
+    },
+    {
+      "name": "Consola Game Boy Advance SP",
+      "price": "90.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Gameboy-Advance-SP-Mk2.jpg",
+      "id": "10"
+    },
+    {
+      "name": "Consola Nintendo DS",
+      "price": "100.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Nintendo-DS-Fat-Blue.png",
+      "id": "11"
+    },
+    {
+      "name": "Consola Nintendo 3DS",
+      "price": "145.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nintendo-3DS-AquaOpen.png/800px-Nintendo-3DS-AquaOpen.png",
+      "id": "12"
+    },
+    {
+      "name": "Consola Play Station 1",
+      "price": "89.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/PSX-Console-wController.png",
+      "id": "13"
+    },
+    {
+      "name": "Consola Play Statio 2",
+      "price": "130.00",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/PS2_png.png",
+      "id": "13"
+    },
+    {
+      "id": "8154",
+      "name": "Play Station 3",
+      "price": "245.29",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Sony-PlayStation-3-2001A-wController-L.jpg/640px-Sony-PlayStation-3-2001A-wController-L.jpgg"
+    },
+    {
+      "id": "2929",
+      "name": "Consola Play Station 4",
+      "price": "340.99",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/PlayStation4modelos.png"
+    }
+  ]
+}
