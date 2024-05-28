@@ -1,0 +1,24 @@
+{
+    "products":[
+        {
+            "name": "Nintendo 64",
+            "price": "45",
+            "image": "https://www.google.com/search?sca_esv=43eb03caa67a0f6e&rlz=1C1VDKB_enHN1091HN1091&sxsrf=ADLYWIK6U74JaHl49kblWzrsPiJkPcnvYg:1716275904964&q=nintendo+64&uds=ADvngMhpsojwKe5eIOqT5IDaiLbe9dlql6nWsZj09zhV4NEbR54nG0QE-h0BDND5_rwQl6VC2dYBGoO_NGlQdmQ-YKufn1pnErDkl2KPNIvBA5YmWKbm1gGAn3_VbnI-CBNDzu1FPpd4wdVsOAHncVKaEoNtmCKuGGHGcW1PawWyiJlt8GSK4mTn-ebVSk_lV_yYM70Uu3ZwKkYdSFTblmFBKAFnIMM5WY3kvFPgRqYJEG4ZJ46X_ZeH3hWP85tgqAMTPIJl8QpVlcDreCFgwyjkiB06juZr0NFO2d2omlLzMaaHwqDDP-8&udm=2&prmd=sivnmbz&sa=X&ved=2ahUKEwjom5v9mZ6GAxVQRDABHc3BAyYQtKgLegQIEBAB&biw=1366&bih=633&dpr=1#vhid=uScyZSkwt6AU0M&vssid=mosaic",
+            "id": 1
+        },
+
+        {
+            "name": "Nintendo Game Cube",
+            "price": "54",
+            "image": "https://www.google.com/search?q=nintendo+gamecube&sca_esv=43eb03caa67a0f6e&rlz=1C1VDKB_enHN1091HN1091&udm=2&biw=1366&bih=633&sxsrf=ADLYWILXOv7RkElvO1DxqJHSuUHY3LT0FQ%3A1716275907665&ei=w0pMZqqcKI6EwbkPpfq6wAU&oq=nintendo+gam&gs_lp=Egxnd3Mtd2l6LXNlcnAiDG5pbnRlbmRvIGdhbSoCCAAyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESNYRUO8FWJkIcAF4AJABAJgBhAGgAfgCqgEDMC4zuAEDyAEA-AEBmAIEoAKeA8ICBBAjGCfCAgoQABiABBhDGIoFmAMAiAYBkgcDMS4zoAfhDw&sclient=gws-wiz-serp#vhid=dRQunrFWvitV9M&vssid=mosaic",
+            "id": 2
+        },
+
+        {
+            "name": "Nintendo Wii",
+            "price": "64",
+            "image": "https://www.google.com/search?q=nintendo+wii&sca_esv=43eb03caa67a0f6e&rlz=1C1VDKB_enHN1091HN1091&udm=2&biw=1366&bih=633&sxsrf=ADLYWIJnZBlDU4qdzG_tZ_DFYDrY0aRLKA%3A1716275978372&ei=CktMZommFrmMwbkP1ImtoA4&ved=0ahUKEwiJ05ugmp6GAxU5RjABHdREC-QQ4dUDCBA&uact=5&oq=nintendo+wii&gs_lp=Egxnd3Mtd2l6LXNlcnAiDG5pbnRlbmRvIHdpaTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgARIvAxQogVYhQpwAXgAkAEAmAGyAaAB4ASqAQMwLjS4AQPIAQD4AQGYAgWgAoUFwgIKEAAYgAQYQxiKBcICBBAjGCeYAwCIBgGSBwMxLjSgB8gV&sclient=gws-wiz-serp#vhid=Xby_fqAiRd8GPM&vssid=mosaic",
+            "id": 3
+        }
+    ]
+}
